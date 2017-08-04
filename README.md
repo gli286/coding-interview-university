@@ -5,7 +5,7 @@
 - [x] [The Daily Plan](#the-daily-plan)
 - [x] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [ ] [Data Structures](#data-structures)
-    - [ ] [Arrays](#arrays)
+    - [x] [Arrays](#arrays)
     - [ ] [Linked Lists](#linked-lists)
     - [ ] [Stack](#stack)
     - [ ] [Queue](#queue)
@@ -219,7 +219,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [x] [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
         - [x] [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [x] Implement a vector (mutable array with automatic resizing):
         - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [x] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
