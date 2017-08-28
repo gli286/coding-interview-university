@@ -6,7 +6,7 @@
 - [x] [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [ ] [Data Structures](#data-structures)
     - [x] [Arrays](#arrays)
-    - [ ] [Linked Lists](#linked-lists)
+    - [x] [Linked Lists](#linked-lists)
     - [ ] [Stack](#stack)
     - [ ] [Queue](#queue)
     - [ ] [Hash table](#hash-table)
@@ -261,7 +261,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [x] implement (I did with tail pointer & without):
-        - [ ] REIMPLEMENT FUNCTIONS THAT USE FOR LOOPS WITH WHILE LOOPS, MUCH CLEANER AND EASIER
+        - [x] REIMPLEMENT FUNCTIONS THAT USE FOR LOOPS WITH WHILE LOOPS, MUCH CLEANER AND EASIER
         - [x] size() - returns number of data elements in list
         - [x] empty() - bool returns true if empty
         - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
@@ -276,7 +276,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [x] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
